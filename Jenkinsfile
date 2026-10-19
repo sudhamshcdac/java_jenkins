@@ -2,7 +2,7 @@ pipeline{
 
 	agent any
 	environment{
-		DOCKER_IMAGE="Grater-java:latest"
+		DOCKER_IMAGE="grater-java:latest"
 	}
 	
 	stages {
